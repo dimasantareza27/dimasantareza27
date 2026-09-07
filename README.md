@@ -26,9 +26,7 @@
 </p>
 
 ### 📌 Proyek Unggulan
-- **ProjectSDA** — Aplikasi manajemen keuangan modular berbasis C++, dikerjakan bareng tim
-- **Platform-Service-Curhat** — Proyek berbasis Java
-- *(update bagian ini kalau ada proyek baru yang mau ditampilkan)*
+- 
 
 ### 📊 GitHub Stats
 
