@@ -21,7 +21,7 @@
 - **Platform-Service-Curhat** — Proyek berbasis Java
 
 ### 📬 Hubungi Saya
-📷 Instagram: [@GANTI_USERNAME_IG](https://instagram.com/dmsslvtr)
+📷 Instagram: [dmsslvtr](https://instagram.com/dmsslvtr)
 
 ---
 
