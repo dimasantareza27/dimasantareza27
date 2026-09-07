@@ -1,7 +1,7 @@
-# Hi Aku Dimas
-# 💫 Tentang Aku:
-🎓 Mahasiswa aktif di Universitas Lampung<br>🌱 Sedang belajar pengembangan software, dari C++ sampai web development<br>💼 Sambil belajar, juga menjalankan Task Helper — jasa freelance untuk kebutuhan akademik & kreatif<br>🤝 Belajar kerja tim lewat workflow Git (branch-per-member, rebase, dsb.)<br>⚡ Terbuka untuk belajar bareng, kolaborasi proyek, atau kerja sama freelance
+<img src="https://github.com/dimasantareza27/dimasantareza27/blob/main/github-header-banner%20(3).png?raw=true" width="100%">
 
+# 💫 About Me:
+🎓 Active student at University of Lampung<br>🌱 Learning software development, from C++ to web development<br>💼 Alongside studying, also running Task Helper — a freelance service for academic & creative needs<br>🤝 Learning teamwork through Git workflow (branch-per-member, rebase, etc.)<br>⚡ Open to learning together, project collaboration, or freelance work
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dmsslvtr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dimasantareza60@gmail.com) 
