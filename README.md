@@ -1,5 +1,5 @@
 # Hi Aku Dimas
-# 💫 About Me:
+# 💫 Tentang Aku:
 🎓 Mahasiswa aktif di Universitas Lampung<br>🌱 Sedang belajar pengembangan software, dari C++ sampai web development<br>💼 Sambil belajar, juga menjalankan Task Helper — jasa freelance untuk kebutuhan akademik & kreatif<br>🤝 Belajar kerja tim lewat workflow Git (branch-per-member, rebase, dsb.)<br>⚡ Terbuka untuk belajar bareng, kolaborasi proyek, atau kerja sama freelance
 
 
