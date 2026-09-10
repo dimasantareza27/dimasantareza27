@@ -4,11 +4,15 @@
 
 # 💫 About Me:
 
+<div align="left">
+
 🎓 Active student at University of Lampung<br>
 🌱 Learning software development, from C++ to web development<br>
 💼 Alongside studying, also running Task Helper — a freelance service for academic & creative needs<br>
 🤝 Learning teamwork through Git workflow (branch-per-member, rebase, etc.)<br>
 ⚡ Open to learning together, project collaboration, or freelance work
+
+</div>
 
 <br>
 
